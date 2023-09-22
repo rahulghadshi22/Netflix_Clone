@@ -517,7 +517,12 @@
       align-self: flex-start;
     }
   }
-  
+  .column__1 p:hover,
+  .column__1 p:hover,
+  .column__3 p:hover,
+  .column__4 p:hover {
+    color: white;
+  }
   @media (min-width: 1254px) {
   }
   
